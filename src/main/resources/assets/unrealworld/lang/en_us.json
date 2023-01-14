@@ -1,0 +1,9 @@
+{
+  "itemGroup.unreal_world" : "Unreal World",
+  "item.unrealworld.stone_dust" : "Stone Dust",
+  "item.unrealworld.inpure_nitrate_dust" : "Inpure Nitrate",
+  "item.unrealworld.normal_mineral_salt_dust" : "Normal Mineral Saltt",
+  "item.unrealworld.inpure_mineral_salt_dust" : "Inpure Mineral Saltt",
+  "item.unrealworld.inpure_copper_dust" : "Inpure Copper Dust",
+  "item.unrealworld.inpure_copper_ingot" : "Inpure Copper Ingot"
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+issueTrackerURL="https://github.com/Tki-sor/Unreal-World-Mod/issues"
+[[mods]]
+modId="unrealworld"
+version="1.18.2-1.0.0"
+displayName="Unreal World"
+displayURL="https://github.com/Tki-sor/Unreal-World-Mod"
+logoFile="unrealworld.png"
+authors="Tki_sor"
+description='''
+This mod is made specifically for Unreal-World-Modpack.
+'''
+[[dependencies.unrealworld]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.unrealworld]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

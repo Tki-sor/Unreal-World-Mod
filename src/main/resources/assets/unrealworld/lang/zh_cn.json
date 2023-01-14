@@ -1,0 +1,9 @@
+{
+  "itemGroup.unreal_world" : "虚境",
+  "item.unrealworld.stone_dust" : "石粉",
+  "item.unrealworld.inpure_nitrate_dust" : "含杂硝酸盐",
+  "item.unrealworld.normal_mineral_salt_dust" : "无机盐",
+  "item.unrealworld.inpure_mineral_salt_dust" : "含杂无机盐",
+  "item.unrealworld.inpure_copper_dust" : "含杂铜粉",
+  "item.unrealworld.inpure_copper_ingot" : "含杂铜锭"
+}
